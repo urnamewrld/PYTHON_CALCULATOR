@@ -1,6 +1,6 @@
 #Simple Calculator
 
-#print(eval(input("calc: ")))
+#print(eval(input("calc: "))) this can be use for simplicity 
 
 num1 = float(input("Enter a Number: "))
 operator = input("Select an operator: + - * /: ")
